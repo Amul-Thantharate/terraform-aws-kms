@@ -2,7 +2,7 @@
 terraform.tfstate
 terraform.tfstate.backup
 terraform.tfvars
-
+.terraform.lock.hcl
 
 # Ignore all .tfvars files, customise as necessary
 *.tfvars
