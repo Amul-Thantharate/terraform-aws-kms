@@ -1,0 +1,8 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+
+
+# Ignore all .tfvars files, customise as necessary
+*.tfvars
